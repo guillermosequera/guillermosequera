@@ -29,6 +29,7 @@
 <!--[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]-->
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+[<img align="left" alt="bilgehangecici | Twitter" width="40px" src="https://lottiefiles.com/6082-twitter-logo-animation" />][twitter]
 
 <br />
 
@@ -93,6 +94,7 @@
 <!--[website]: http://bilgehangecici.site/-->
 [instagram]: https://www.instagram.com/memosequera/
 [linkedin]: https://www.linkedin.com/in/guillermo-sequera/
+[twitter]: https://twitter.com/GmSc0
 
 <!--
 **guillermosequera/guillermosequera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
