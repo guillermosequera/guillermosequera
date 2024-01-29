@@ -19,7 +19,6 @@
 
 [<img  alt="guillermosequera | LinkedIn" width="40px" height="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img  alt="guillermosequera | Twitter" width="50px" height="50px" src="https://user-images.githubusercontent.com/61479456/120167816-3022ac80-c1cc-11eb-9df3-1ef019b6cfab.gif" />][twitter]
-[<img  alt="guillermosequera | Instagram" width="40px" height="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 [<img  alt="guillermosequera | MyWebsite" width="50px" height="50px" src="https://media4.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" />][website]
 
 <br />
