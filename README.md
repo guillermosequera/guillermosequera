@@ -17,7 +17,6 @@
 ### Contact with me 📝
 
 
-<!--[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]-->
 [<img  alt="guillermosequera | LinkedIn" width="40px" height="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img  alt="guillermosequera | Twitter" width="50px" height="50px" src="https://user-images.githubusercontent.com/61479456/120167816-3022ac80-c1cc-11eb-9df3-1ef019b6cfab.gif" />][twitter]
 [<img  alt="guillermosequera | Instagram" width="40px" height="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
